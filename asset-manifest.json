@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/hola-mozilla/static/css/main.073c9b0a.css",
+    "main.js": "/hola-mozilla/static/js/main.6e391509.js",
+    "static/js/787.9b805f27.chunk.js": "/hola-mozilla/static/js/787.9b805f27.chunk.js",
+    "static/media/logo.svg": "/hola-mozilla/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/hola-mozilla/index.html",
+    "main.073c9b0a.css.map": "/hola-mozilla/static/css/main.073c9b0a.css.map",
+    "main.6e391509.js.map": "/hola-mozilla/static/js/main.6e391509.js.map",
+    "787.9b805f27.chunk.js.map": "/hola-mozilla/static/js/787.9b805f27.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.6e391509.js"
+  ]
+}
