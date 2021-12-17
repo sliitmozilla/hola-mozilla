@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Hola-Mozilla",
+  "name": "Mozilla Campus Club os SLIIT, Club Orientation",
   "icons": [
     {
       "src": "favicon.ico",
@@ -8,17 +8,17 @@
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "https://res.cloudinary.com/fitness-glory/image/upload/v1639477576/Logo-02_xgoth5.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "https://res.cloudinary.com/fitness-glory/image/upload/v1639477576/Logo-02_xgoth5.png",
       "type": "image/png",
       "sizes": "512x512"
     }
   ],
-  "start_url": ".",
+  "start_url": "/hola-mozilla",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
